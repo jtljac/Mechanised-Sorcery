@@ -1,0 +1,144 @@
+key.attack
+key.use
+key.forward
+key.left
+key.back
+key.right
+key.jump
+key.sneak
+key.sprint
+key.drop
+key.inventory
+key.chat
+key.playerlist
+key.pickItem
+key.command
+key.screenshot
+key.togglePerspective
+key.smoothCamera
+key.fullscreen
+key.spectatorOutlines
+key.swapHands
+key.saveToolbarActivator
+key.loadToolbarActivator
+key.advancements
+key.hotbar.1
+key.hotbar.2
+key.hotbar.3
+key.hotbar.4
+key.hotbar.5
+key.hotbar.6
+key.hotbar.7
+key.hotbar.8
+key.hotbar.9
+of.key.zoom
+ALT Key
+Boost Key
+Mode Switch Key
+Side Inventory Key
+Hub Expand Key
+Change Caster Focus
+Misc Caster Toggle
+keybind.baublesinventory
+quark.emote.no
+quark.emote.yes
+quark.emote.wave
+quark.emote.salute
+quark.emote.cheer
+quark.emote.clap
+quark.emote.think
+quark.emote.point
+quark.emote.shrug
+quark.emote.headbang
+quark.emote.weep
+quark.emote.facepalm
+quark.emote.dance
+quark.emote.tpose
+quark.emote.dab
+quark.emote.jet
+quark.emote.exorcist
+quark.emote.zombie
+quark.keybind.toggleAutojump
+quark.keybind.lockBuilding
+quark.keybind.dropoff
+quark.keybind.changeHotbar
+quark.keybind.chestSort
+quark.keybind.chestDropoff
+quark.keybind.chestMerge
+quark.keybind.chestRestock
+quark.keybind.chestExtract
+key.toggle_shaders
+bloodmagic.keybind.open_holding
+bloodmagic.keybind.cycle_holding_pos
+bloodmagic.keybind.cycle_holding_neg
+key.ironbackpacks.equip
+key.ironbackpacks.open
+key.open_menu
+oreexcavation.key.excavate
+oreexcavation.key.shape
+keybind.railcraft.cart.bed
+simplyjetpacks.keybind.engine
+simplyjetpacks.keybind.hover
+simplyjetpacks.keybind.charger
+simplyjetpacks.keybind.emergencyhover
+key.toastcontrol.clear
+key.open_wct.desc
+key.cycle_magnet_mode.desc
+key.cofh.multimode
+key.toggle_focus.desc
+key.jei.toggleOverlay
+key.jei.focusSearch
+key.jei.toggleCheatMode
+key.jei.toggleEditMode
+key.jei.showRecipe
+key.jei.showUses
+key.jei.recipeBack
+key.jei.previousPage
+key.jei.nextPage
+key.jei.bookmark
+key.jei.toggleBookmarkOverlay
+binniecore.key.hold.for.help.tooltips
+nei.options.keys.gui.botania_corporea_request
+key.dungeontactics.rocketjump.desc
+key.dungeontactics.shieldbash.desc
+key.dungeontactics.trinket1.desc
+key.dungeontactics.trinket2.desc
+key.dungeontactics.trinket3.desc
+key.dungeontactics.trinket4.desc
+key.clipboardPaste
+waila.keybind.wailaconfig
+waila.keybind.wailadisplay
+waila.keybind.liquid
+waila.keybind.recipe
+waila.keybind.usage
+mekanism.key.mode
+mekanism.key.armorMode
+mekanism.key.feetMode
+mekanism.key.voice
+invtweaks.key.sort
+key.menu
+key.villages
+key.escorts
+Toggle Jetpack
+Open Rocket GUI
+Toggle RCS
+Rotate Vehicle Right
+Rotate Vehicle Left
+Move Vehicle Up
+Move Vehicle Down
+key.journeymap.zoom_in
+key.journeymap.zoom_out
+key.journeymap.minimap_type
+key.journeymap.minimap_preset
+key.journeymap.create_waypoint
+key.journeymap.toggle_waypoints
+key.journeymap.fullscreen_create_waypoint
+key.journeymap.fullscreen_chat_position
+key.journeymap.map_toggle_alt
+key.journeymap.fullscreen_waypoints
+key.journeymap.minimap_toggle_alt
+key.journeymap.fullscreen_options
+key.journeymap.fullscreen.north
+key.journeymap.fullscreen.south
+key.journeymap.fullscreen.east
+key.journeymap.fullscreen.west

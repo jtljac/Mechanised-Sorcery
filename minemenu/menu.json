@@ -1,0 +1,95 @@
+{
+  "main": {
+    "0": {
+      "title": "ArmorMode Switch",
+      "icon": {
+        "name": "mekanism:armoredjetpack",
+        "damage": 0
+      },
+      "action": {
+        "key": {
+          "key": "mekanism.key.armorMode",
+          "toggle": false
+        }
+      }
+    },
+    "1": {
+      "title": "FeetMode Switch",
+      "icon": {
+        "name": "mekanismtools:steelboots",
+        "damage": 0
+      },
+      "action": {
+        "key": {
+          "key": "mekanism.key.feetMode",
+          "toggle": false
+        }
+      }
+    },
+    "2": {
+      "title": "Item Mode Switch",
+      "icon": {
+        "name": "mekanism:configurator",
+        "damage": 0
+      },
+      "action": {
+        "key": {
+          "key": "mekanism.key.mode",
+          "toggle": false
+        }
+      }
+    },
+    "6": {
+      "title": "Trinket 4",
+      "icon": {
+        "name": "dungeontactics:golden_ring",
+        "damage": 0
+      },
+      "action": {
+        "key": {
+          "key": "key.dungeontactics.trinket4.desc",
+          "toggle": false
+        }
+      }
+    },
+    "7": {
+      "title": "Trinket 3",
+      "icon": {
+        "name": "dungeontactics:golden_ring",
+        "damage": 0
+      },
+      "action": {
+        "key": {
+          "key": "key.dungeontactics.trinket3.desc",
+          "toggle": false
+        }
+      }
+    },
+    "8": {
+      "title": "Trinket 2",
+      "icon": {
+        "name": "dungeontactics:golden_ring",
+        "damage": 0
+      },
+      "action": {
+        "key": {
+          "key": "key.dungeontactics.trinket2.desc",
+          "toggle": false
+        }
+      }
+    },
+    "9": {
+      "title": "Trinket 1",
+      "icon": {
+        "name": "dungeontactics:golden_ring",
+        "damage": 0
+      },
+      "action": {
+        "key": {
+          "key": "key.dungeontactics.trinket1.desc",
+          "toggle": false
+        }
+      }
+    }
+  }
+}

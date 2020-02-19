@@ -1,0 +1,31 @@
+{
+	"dependencies": "railcraft",
+	"populate": {
+		"zinc": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "railcraft:ore_metal",
+					"properties": {
+						"variant": "zinc"
+					}
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 8
+			},
+			"cluster-count": 8,
+			"min-height": 20,
+			"max-height": 50,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	}
+}
